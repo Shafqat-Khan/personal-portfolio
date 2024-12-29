@@ -22,14 +22,11 @@ export default function About() {
         As a <span className="font-medium">Freelancer</span>, I leverage my
         skills in React.js, Angular.js, Next.js, and Flutter to create and
         deploy scalable and user-friendly applications for various clients. I
-        have a Bachelor of Science in{" "}
-        <span className="font-medium">Computer Science</span>
-        from University of Engineering and Technology, Lahore. I have been
-        working as a freelance developer for a year. I am passionate about
-        learning new technologies and solving complex problems with innovative
-        solutions. My mission is to help businesses and organizations achieve
-        their goals and improve their performance with the power of cloud
-        computing and software development.
+        have been working as a freelance developer for 5+ years. I am passionate
+        about learning new technologies and solving complex problems with
+        innovative solutions. My mission is to help businesses and organizations
+        achieve their goals and improve their performance with the power of
+        cloud computing and software development.
       </p>
 
       <p>
